@@ -14,6 +14,7 @@ const Styles = StyleSheet.create({
         justifyContent:"space-between",
         borderBottomStartRadius:30,
         borderBottomEndRadius:30,
+        margin:1,
 
     },
     line:{
